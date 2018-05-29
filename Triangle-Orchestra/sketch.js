@@ -30,8 +30,8 @@ let currentSong = 0;
 
 
 function preload() {
- mySound = loadSound('Triangle sound - 4_17_18, 11.04 AM.m4a');
- aragonaise = loadSound('_Waltz_ - 4_24_18, 3.02 PM.m4a');
+ mySound = loadSound('Trianglesound.m4a');
+ aragonaise = loadSound('Waltz.m4a');
  masquerade = loadSound('Masquerade.m4a');
  knight = loadSound('knight.m4a');
  animal = loadSound('CarnivaloftheAnimals.m4a');
